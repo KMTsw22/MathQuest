@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build output
+.next/
+out/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+
+# Config files with secrets
+config.py
+config.local.*
+secrets.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/settings.json
+.vscode/launch.json
+.idea/
+*.swp
+*.swo
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Package manager locks (pick one to keep)
+# yarn.lock
+# pnpm-lock.yaml
+
+# Misc
+.vercel
+.turbo
+coverage/
+.cache/
