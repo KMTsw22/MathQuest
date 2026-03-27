@@ -25,7 +25,7 @@ Common Core 수학 표준은 학년(K–8) 및 고등(HS)별로 공식 문서에
 | 5 | Composing and Decomposing Numbers to 10 |
 | 6 | Numbers 0–20 |
 | 7 | Solid Shapes All around Us |
-| 8 | Putting It All Together |
+| ~~8~~ | ~~Putting It All Together~~ ⛔ 문제 없음 — 제외 |
 
 **CCSS 표준**
 - K.CC.A: 1–100 수 세기, 순서 알기
@@ -52,7 +52,7 @@ Common Core 수학 표준은 학년(K–8) 및 고등(HS)별로 공식 문서에
 | 5 | Adding within 100 |
 | 6 | Length Measurements within 120 Units |
 | 7 | Geometry and Time |
-| 8 | Putting It All Together |
+| ~~8~~ | ~~Putting It All Together~~ ⛔ 문제 없음 — 제외 |
 
 **CCSS 표준**
 - 1.OA.A–D: 20 이하 덧셈/뺄셈, 관계 이해, 미지수
@@ -75,7 +75,7 @@ Common Core 수학 표준은 학년(K–8) 및 고등(HS)별로 공식 문서에
 | 6 | Geometry, Time, and Money |
 | 7 | Adding and Subtracting within 1,000 |
 | 8 | Equal Groups |
-| 9 | Putting It All Together |
+| ~~9~~ | ~~Putting It All Together~~ ⛔ 문제 없음 — 제외 |
 
 **CCSS 표준**
 - 2.OA.A–C: 덧셈/뺄셈 유창성, 홀수/짝수, 배열
@@ -97,7 +97,7 @@ Common Core 수학 표준은 학년(K–8) 및 고등(HS)별로 공식 문서에
 | 5 | Fractions as Numbers |
 | 6 | Measuring Length, Time, Liquid Volume, and Weight |
 | 7 | Two-Dimensional Shapes and Perimeter |
-| 8 | Putting It All Together |
+| ~~8~~ | ~~Putting It All Together~~ ⛔ 문제 없음 — 제외 |
 
 **CCSS 표준**
 - 3.OA.A–D: 곱셈/나눗셈 개념 및 유창성, 두 단계 문제
@@ -121,7 +121,7 @@ Common Core 수학 표준은 학년(K–8) 및 고등(HS)별로 공식 문서에
 | 6 | Multiplying and Dividing Multi-digit Numbers |
 | 7 | Angles and Angle Measurement |
 | 8 | Properties of Two-dimensional Shapes |
-| 9 | Putting It All Together |
+| ~~9~~ | ~~Putting It All Together~~ ⛔ 문제 없음 — 제외 |
 
 **CCSS 표준**
 - 4.OA.A–C: 네 자리 이상 연산, 인수/배수, 소인수, 패턴
@@ -170,7 +170,7 @@ Common Core 수학 표준은 학년(K–8) 및 고등(HS)별로 공식 문서에
 | 6 | Expressions and Equations |
 | 7 | Rational Numbers |
 | 8 | Data Sets and Distributions |
-| 9 | Putting It All Together |
+| ~~9~~ | ~~Putting It All Together~~ ⛔ 문제 없음 — 제외 |
 
 **CCSS 표준**
 - 6.RP.A: 비율과 단위율, 백분율
@@ -194,7 +194,7 @@ Common Core 수학 표준은 학년(K–8) 및 고등(HS)별로 공식 문서에
 | 6 | Expressions, Equations, and Inequalities |
 | 7 | Angles, Triangles, and Prisms |
 | 8 | Probability and Sampling |
-| 9 | Putting It All Together |
+| ~~9~~ | ~~Putting It All Together~~ ⛔ 문제 없음 — 제외 |
 
 **CCSS 표준**
 - 7.RP.A: 비례 관계, 백분율(세금/팁/할인)
@@ -218,7 +218,7 @@ Common Core 수학 표준은 학년(K–8) 및 고등(HS)별로 공식 문서에
 | 6 | Associations in Data |
 | 7 | Exponents and Scientific Notation |
 | 8 | Pythagorean Theorem and Irrational Numbers |
-| 9 | Putting It All Together |
+| ~~9~~ | ~~Putting It All Together~~ ⛔ 문제 없음 — 제외 |
 
 **CCSS 표준**
 - 8.NS.A: 무리수, 유리수 근사
